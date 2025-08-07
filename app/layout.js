@@ -1,7 +1,7 @@
 import { inter } from "@/app/ui/font"
 import { NavbarDemo } from "@/app/ui/navbar";
 import Footer from "@/components/footer";
-import UserSync from "@/components/user-sync";
+import UserSyncWrapper from "@/components/user-sync-wrapper";
 import { Toaster } from "@/components/ui/sonner";
 import "./globals.css";
 import {
@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
 
         <body className={`${inter.className} antialiased  `}>
           {/* User Sync - Automatically syncs signed-in users to database */}
-          <UserSync />
+          <UserSyncWrapper />
 
           {/* Header */}
 

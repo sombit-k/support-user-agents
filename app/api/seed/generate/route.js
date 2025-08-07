@@ -85,6 +85,11 @@ function generateDynamicDescription() {
   return `${context} ${problem} ${question}`;
 }
 
+import { seedTickets } from "@/actions/seed";
+
+// Force dynamic rendering for this route
+export const dynamic = 'force-dynamic';
+
 export async function POST(request) {
   try {
     const { count = 25, includeVotes = true, includeComments = true } = await request.json();

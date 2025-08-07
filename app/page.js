@@ -212,7 +212,7 @@ const LandingPage = () => {
                   Trusted by Industry Leaders
                 </h2>
                 <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                  Join thousands of companies who've transformed their support operations with QuickDesk.
+                  Join thousands of companies who&apos;ve transformed their support operations with QuickDesk.
                 </p>
               </motion.div>
               
@@ -247,7 +247,7 @@ const LandingPage = () => {
                 Ready to Transform Your Support?
               </h2>
               <p className="text-xl text-blue-100 mb-10 max-w-2xl mx-auto">
-                Join over 10,000 teams who've revolutionized their customer support with QuickDesk. 
+                Join over 10,000 teams who&apos;ve revolutionized their customer support with QuickDesk. 
                 Start your free trial today - no credit card required.
               </p>
               
