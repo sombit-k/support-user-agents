@@ -54,7 +54,9 @@ export default function Footer() {
             <h3 className="text-sm font-semibold text-white uppercase tracking-wider">Connect</h3>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://github.com/sombit-k/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="group w-10 h-10 bg-slate-800 hover:bg-slate-700 rounded-lg flex items-center justify-center transition-all duration-200 hover:scale-105"
                 aria-label="GitHub"
               >
@@ -68,7 +70,7 @@ export default function Footer() {
                 <Twitter className="w-4 h-4 text-gray-400 group-hover:text-white transition-colors" />
               </a>
               <a
-                href="#"
+                href="mailto:sombitkarmakar018@gmail.com?subject=Hello%20from%20Support%20Agent%20User&body=Hi%20Sombit,%0A%0AI%20found%20your%20Support%20Agent%20platform%20and%20wanted%20to%20reach%20out.%0A%0A"
                 className="group w-10 h-10 bg-slate-800 hover:bg-red-600 rounded-lg flex items-center justify-center transition-all duration-200 hover:scale-105"
                 aria-label="Email"
               >
