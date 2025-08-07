@@ -2,7 +2,13 @@
 
 Welcome to **Support Agent**, your intelligent customer support companion! This platform combines cutting-edge AI technology with beautiful design to deliver seamless support ticket management and instant customer assistance.
 
-## 🌟 What is Support Agent?
+## � Live Application
+
+**🚀 [Visit Support Agent Platform](https://support-user-agents.vercel.app/)**
+
+Experience the full power of AI-driven customer support by visiting our live application. No installation required - just click and start exploring!
+
+## �🌟 What is Support Agent?
 
 Support Agent is a modern web application that helps businesses manage customer support efficiently. Whether you're a customer seeking help or a support agent managing tickets, our platform provides an intuitive experience powered by artificial intelligence.
 
@@ -137,12 +143,37 @@ Support Agent is a modern web application that helps businesses manage customer 
 
 ## 🎉 Ready to Get Started?
 
-1. **Visit the Application**: Open your web browser and navigate to the platform
+1. **Visit the Application**: Go to [https://support-user-agents.vercel.app/](https://support-user-agents.vercel.app/)
 2. **Create Your Account**: Sign up with your email address
 3. **Explore Features**: Take a tour of the dashboard and features
 4. **Ask for Help**: Try the AI chatbot or create your first ticket
 5. **Enjoy the Experience**: Discover how easy support can be!
 
+## 📞 Contact & Support
+
+### 👨‍💻 Developer Information
+**Sombit Karmakar** - Full Stack Developer & AI Enthusiast
+
+### 📬 Get in Touch
+- **Email**: [sombitkarmakar018@gmail.com](mailto:sombitkarmakar018@gmail.com)
+- **GitHub**: [github.com/sombit-k](https://github.com/sombit-k/)
+- **Website**: [support-user-agents.vercel.app](https://support-user-agents.vercel.app/)
+
+### 💬 Support Options
+- **Technical Issues**: Email me directly for bug reports or technical problems
+- **Feature Requests**: Suggest new features via GitHub issues or email
+- **Business Inquiries**: Contact for collaboration or custom development
+- **General Questions**: Use the platform's built-in AI chatbot or reach out via email
+
+### 🤝 Contributing
+Interested in contributing to Support Agent? Feel free to:
+- Report bugs or suggest improvements
+- Submit pull requests for enhancements
+- Share feedback on user experience
+- Help improve documentation
+
 ---
 
 **Support Agent** - Making customer support intelligent, beautiful, and effective. 🚀✨
+
+*Developed with ❤️ by [Sombit Karmakar](https://github.com/sombit-k/) | © 2025 All Rights Reserved*
